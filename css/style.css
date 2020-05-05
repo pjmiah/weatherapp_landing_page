@@ -1,0 +1,86 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	outline: 0px;
+}
+body{
+	font-family: sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+/*========HEAD SECTION START==============*/
+.bg-light {
+	background-color: #648cff !important;
+}
+.navbar .navbar-nav .nav-link .nav-item{
+	margin-right: 40px;
+	margin-left: 10px;
+	color: #fff;
+	font-size: 18px;
+}
+.navbar .navbar-nav .mt-2 i{
+	font-size: 20px;
+	color: #fff;
+}
+.navbar h2 {
+	color: #fff;
+	margin-left: 102px;
+	font-weight: 600;
+}
+.navbar .ml-auto{
+	margin-right: 50px !important;
+}
+
+
+
+
+.head-section{
+	background: url(../img/wave.png) center top no-repeat;
+	width: 100%;
+	min-height: 880px;
+}
+.head-section h2{
+	margin-top: 180px;
+	color: #fff;
+	font-size: 50px;
+	font-weight: 650;
+	line-height: 54px;
+}
+.head-section p{
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+.head-section .btn-danger{
+	background: #fc6a41;
+	padding: 6px 30px;
+}
+.head-section .btn-primary{
+	background: #4466c8;
+	padding: 6px 30px;
+}
+.head-section .img-1 {
+	display: block;
+	margin-top: 150px;
+}
+.head-section .img-2 {
+	display: block;
+	margin-top: -620px;
+	margin-left: 130px;
+}
+
+
+
+
+
+
+
+
+
+
